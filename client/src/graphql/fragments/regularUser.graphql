@@ -1,0 +1,4 @@
+fragment RegularUser on UserGQLType {
+  id
+  username
+}

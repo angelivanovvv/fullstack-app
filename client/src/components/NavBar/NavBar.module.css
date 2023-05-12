@@ -1,0 +1,10 @@
+.link {
+  font-weight: 700;
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: none;
+}
+.username {
+  font-weight: 700;
+}
